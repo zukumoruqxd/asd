@@ -1,0 +1,72 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "807971749877907541",
+"BanSpearID": "807971749865586692",
+"JailSpearID": "807971749865586694",
+"MuteSpearID": "807971749865586697",
+"VoiceMuteSpearID": "807971749865586697",
+"AbilityID": "807971749865586695",
+"OzelRol": "807971749877907542"
+},
+
+"Channels": {
+"RulesLogChannelID": "807971750288556116",
+"BanLogChannelID": "807971753263497245",
+"JailLogChannelID": "807971753480945684",
+"MuteLogChannelID": "807971753480945685",
+"VoiceMuteLogChannelID": "807971753480945686"
+},
+
+"Penalties": {
+"JailRole": "807971749920636979",
+"MuteRole": "807971749911068721",
+"YasakliTag": "807990882397585438"
+},
+
+"ServerSettings": {
+"GuildID": "807971749827182592",
+"GuildName": "✰ YAKINDA #TAGLIALIM",
+"KatildiRol": "807971749865586691",
+"ToplantiKanal": "807971751002243093",
+"UnregisterID": "807971749911068717",
+
+"ServerTag": "✰",
+"UnTag": "★"
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "<a:stgyes:807992174234959892>",
+"False": "<a:stgno:807992174795816980>",
+"TrueID": "807992174234959892",
+"FalseID": "807992174795816980"
+},
+
+"EmojiSayı": {
+"sifir": "",
+"bir": "",
+"iki": "",
+"uc": "",
+"dort": "",
+"bes": "",
+"alti": "",
+"yedi": "",
+"sekiz": "",
+"dokuz": ""
+}
+
+
+}
